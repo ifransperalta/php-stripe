@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto';
+}
+
+.dv-padding{
+    padding: 40px;
+}
+
+.card-box label.error{
+    font-size: 9pt;
+    margin-left: 5px;
+    color: #A60000;
+}
+
+.card-box h3{
+    font-size: 18pt;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.card-box input{
+    margin-bottom: 6px;
+}
+
+.card-info{
+    float: left;
+    width: 31%;
+    margin-right: 2%;
+    margin-bottom: 10px;
+}
+
+.card-label{
+    float: left;
+    width: 100%;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+.order-summary{
+    width: 100%;
+    padding: 30px 30px 60px 20px;
+    margin: 20px 0px 0px 25px; 
+    border: 1px solid #F0F0F0;
+}
+
+.order-summary h2{
+    font-size: 18pt;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.order-summary ul{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    float: left;
+}
+
+.order-summary ul li{
+    list-style: none;
+    padding: 5px 0px;
+    width: 100%;
+    height: 25px;
+}
+
+ul.payment-note li{ 
+    font-size: 9pt;
+}
+
+.card-bt{
+    margin-top: 15px;
+}
+
+.border-top{
+    float: left;
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.card-bt-cont{
+    padding: 10px 0px;
+    margin-left: 25px;
+}
+
+.notification{
+    float: right;
+    width: 100%;
+    text-align: right; 
+    padding: 10px 0px; 
+    font-size: 10pt; 
+    color: #45722E; 
+    font-weight: bold;
+}
